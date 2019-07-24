@@ -1,6 +1,5 @@
 
-
-function faceProb(image){
+export function FD(image){
     // TODO: complete the code
 
 
